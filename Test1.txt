@@ -1,4 +1,2 @@
 This is my first Git Test
 Now we added new lines
-
-Create a working copy of a local repository:
